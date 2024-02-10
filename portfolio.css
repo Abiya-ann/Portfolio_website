@@ -1,0 +1,127 @@
+h1 {
+    font-family: Montserrat;
+    color: rgb(63, 58, 58);
+    text-align: right;
+    background-color:#d1d1d1;
+    margin-right: 260px;
+    padding-top: 36px;
+    font-size: 65px;
+    margin-bottom: 0; /* Add this line to remove bottom margin */
+}
+
+h2 {
+    font-family: Montserrat;
+    color: rgb(63, 58, 58);
+    text-align: right;
+    margin-right: 610px;
+    padding-bottom: 100px;
+    margin-bottom:0;
+    margin-top:10px; /* Add this line to remove top margin */
+
+}
+
+
+
+pre.aligned {
+    font-family: Montserrat;
+    color: rgb(63, 58, 58);
+    margin-right: 580px;
+    margin-top: -80px; /* Adjust as needed */
+    padding-bottom: 400px; /* Adjust as needed */
+    margin-bottom: 10px; /* Remove bottom margin for p */
+    margin-left: 780px; /* Adjust to move text towards right */
+    padding-left: 0;
+    text-align: justify;
+    font-size:110%;
+    
+}
+
+img{
+    
+    border-radius: 50%;
+    width: 500px; 
+    height: auto; 
+   
+    position: relative; 
+    bottom: 690px;
+    left: 260px;
+    
+}
+body{
+    background-color: #d1d1d1;
+}
+
+
+
+ul{
+	list-style: none;
+	background-color:#d1d1d1;
+	padding: 20px;
+    text-align: center;
+}
+li{
+	display: inline;
+	margin-left: 5%;
+	margin-top: 15%;
+	color: blueviolet;
+    font-size: 20px;
+    
+}
+li a{
+	text-decoration: none;
+   
+}
+
+nav ul li a:hover {
+
+    color: rgb(239, 160, 160); /* Change text color on hover */
+  }
+  
+a{
+	text-decoration: none;
+}
+footer{
+	color: black;
+	background-color:#d1d1d1;
+	text-align: center;
+	padding: 30px;
+	margin-top: 5%;
+}
+
+
+ 
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 120px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .icon {
+    fill: blue; /* Change the fill color on hover */
+  }
+  
+  

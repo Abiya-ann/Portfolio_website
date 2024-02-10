@@ -1,0 +1,51 @@
+body{
+    font-family: Montserrat;
+
+    background-color: blanchedalmond;
+    background-image: url(bc2.jpg);
+    background-size: cover; 
+    background-position: center; 
+  
+
+}
+h1{
+    text-align:center;
+    color: #1d1d1d;
+
+}
+.b{
+    background-color:rgb(118, 211, 118);
+    padding:10px 15px;
+    border-radius:8px;
+    cursor:pointer;
+    margin-left:60px;
+
+}
+.b:hover{
+    background-color: rgb(17, 96, 70);
+    color:white;
+}
+input{
+    padding:4px;
+    margin-top:4px;
+    margin-bottom:10px;
+
+}
+textarea{
+    width:100%;
+    
+    padding:4px;
+    margin-top:10px;
+    margin-left:50px;
+    margin-bottom:20px
+    
+}
+form{
+    max-width: 400px;
+    border-radius:8px;
+    max-height: 360px;
+    padding:25px;
+    text-align: center;
+    margin:50px auto;
+    
+}
