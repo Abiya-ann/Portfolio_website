@@ -10,4 +10,6 @@ skills.html and skills.css is the skills page.
 
 In addition to that there is a contact option in navbar which shows four options to contact : Gmail, Linkedin, Github account or a contact form(form.html and form.css).
 
-https://abiya-ann.github.io/Portfolio_website/portfolio.html: This the link to my portfolio website.
+https://abiya-ann.github.io/Portfolio_website/portfolio.html: This is the link to my portfolio website.
+
+There are few pictures added to the repository that adds images to the website and an icon to the home page.
